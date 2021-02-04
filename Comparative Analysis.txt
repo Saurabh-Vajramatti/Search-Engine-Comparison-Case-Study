@@ -1,0 +1,6 @@
+average percent overlap: 23.3
+average Spearman coefficient: -5.544928571428572
+
+The average percent overlap is just 23.3 percent which just shows that among the top 10 URL results fetched by Google and DuckDuckGo for any query, on an average just 23.3% them will match. This indicates that the search results produced by Google and DuckDuckGo are very dissimilar and so we can conclude that their ways of fetching results are quite different.
+Moreover among the URL results that match, if we find the Spearman coefficient for them with respect to their positions in the top 10 list, we are left with a Spearman coefficient of -5.544928571428572. This negative Spearman coefficient value indicates that the rank(position) of overlapping results does not quite match. This further leads me to believe that the ranking algorithms used by the two search engines are quite dissimilar.
+Since the crawling and ranking algorithms of both these search engines seem to be quite different, and as Google is considered to be the market leader in this field, we can conclude that a deviation from the nature that Google shows is a sign that DuckDuckGo isn't as good as it is which is clearly evident from their market shares.
